@@ -9,7 +9,7 @@ Get the latest version from **[Releases](https://github.com/BEAMevents/BEAMprese
 
 - **BEAMpreset-Setup-x.y.z.exe** (Windows) installs BEAMpreset and **updates itself automatically**. Use this one.
 - **BEAMpreset-Portable-x.y.z.exe** (Windows) runs without installing (e.g. from a USB stick). It tells you when a newer version is out, but doesn't update itself.
-- **BEAMpreset-x.y.z-mac-arm64.dmg** (Mac, Apple Silicon): open it and drag BEAMpreset to Applications. The first time, right-click it and choose **Open**. It updates itself automatically.
+- **BEAMpreset-x.y.z-mac-arm64.dmg** (Mac, Apple Silicon): open it and drag BEAMpreset to Applications. It's notarized by Apple (from 1.0.21), so it opens with a normal double-click. It updates itself automatically.
 
 The Windows installers aren't code-signed yet, so Windows SmartScreen may warn on first launch: click **More info → Run anyway**.
 
